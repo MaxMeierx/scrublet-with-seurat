@@ -1,7 +1,7 @@
 #save the expression matrix 
 #seurat_list is a list which contains the seurat object
 #finding  double should before merge
-
+ 
 #expression matrix filefold
 fold='./data/表达矩阵/'
 for (i in names(seurat_list)) {
